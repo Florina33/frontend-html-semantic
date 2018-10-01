@@ -70,6 +70,7 @@ q, quote {
     padding: 1em;
     quotes: none;
     background: #f4f7f8;
+    background: #f4f7f8;
     font-weight: bold;
 }
 q:before, quote:before,
